@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item-style {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.button-style {
+  height: 30px;
+  width: 100x;
+  color: #ff0b37;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+.title {
+  font-family: Roboto;
+  color: #000000;
+  margin-left: 25px;
+}
